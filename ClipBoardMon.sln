@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipBoardMon", "ClipBoardMon\ClipBoardMon.csproj", "{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Debug|x64.ActiveCfg = Debug|x64
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Debug|x64.Build.0 = Debug|x64
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Release|x64.ActiveCfg = Release|x64
+		{6FEA4656-DF21-4780-AB2C-80B22B7B8FDC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E382EFA-36A6-47CF-898E-535B0D1925CD}
+	EndGlobalSection
+EndGlobal
